@@ -37,4 +37,4 @@ project_01/
 └── README.md
 
 👨‍💻 Author
-Yasir Ali
+Yasir Al
